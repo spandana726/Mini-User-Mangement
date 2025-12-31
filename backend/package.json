@@ -1,6 +1,9 @@
 {
   "name": "mini-user-management-backend",
   "version": "1.0.0",
+  "engines": {
+  "node": "18.x"
+   },
   "description": "Backend for Mini User Management System",
   "main": "src/server.js",
   "type": "module",
@@ -22,4 +25,5 @@
     "nodemon": "^3.0.2",
     "supertest": "^6.3.3"
   }
+  
 }
