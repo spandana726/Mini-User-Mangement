@@ -255,5 +255,4 @@ POST `/api/auth/logout`
 ## 👩‍💻 Developed By
 
 **Spandana**  
-B.Tech — Artificial Intelligence & Machine Learning  
-Full-Stack Developer (MERN)
+B.Tech - Artificial Intelligence & Machine Learning  
